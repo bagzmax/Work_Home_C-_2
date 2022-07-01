@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Downloads\GIT\work_home_c#_2\Examples\Work_Home_2.15\bin\Debug\net6.0\Work_Home_2.15.exe
+C:\Users\Пользователь\Downloads\GIT\work_home_c#_2\Examples\Work_Home_2.15\bin\Debug\net6.0\Work_Home_2.15.deps.json
+C:\Users\Пользователь\Downloads\GIT\work_home_c#_2\Examples\Work_Home_2.15\bin\Debug\net6.0\Work_Home_2.15.runtimeconfig.json
+C:\Users\Пользователь\Downloads\GIT\work_home_c#_2\Examples\Work_Home_2.15\bin\Debug\net6.0\Work_Home_2.15.dll
+C:\Users\Пользователь\Downloads\GIT\work_home_c#_2\Examples\Work_Home_2.15\bin\Debug\net6.0\Work_Home_2.15.pdb
+C:\Users\Пользователь\Downloads\GIT\work_home_c#_2\Examples\Work_Home_2.15\obj\Debug\net6.0\Work_Home_2.15.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Downloads\GIT\work_home_c#_2\Examples\Work_Home_2.15\obj\Debug\net6.0\Work_Home_2.15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Downloads\GIT\work_home_c#_2\Examples\Work_Home_2.15\obj\Debug\net6.0\Work_Home_2.15.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Downloads\GIT\work_home_c#_2\Examples\Work_Home_2.15\obj\Debug\net6.0\Work_Home_2.15.AssemblyInfo.cs
+C:\Users\Пользователь\Downloads\GIT\work_home_c#_2\Examples\Work_Home_2.15\obj\Debug\net6.0\Work_Home_2.15.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Downloads\GIT\work_home_c#_2\Examples\Work_Home_2.15\obj\Debug\net6.0\Work_Home_2.15.dll
+C:\Users\Пользователь\Downloads\GIT\work_home_c#_2\Examples\Work_Home_2.15\obj\Debug\net6.0\refint\Work_Home_2.15.dll
+C:\Users\Пользователь\Downloads\GIT\work_home_c#_2\Examples\Work_Home_2.15\obj\Debug\net6.0\Work_Home_2.15.pdb
+C:\Users\Пользователь\Downloads\GIT\work_home_c#_2\Examples\Work_Home_2.15\obj\Debug\net6.0\Work_Home_2.15.genruntimeconfig.cache
+C:\Users\Пользователь\Downloads\GIT\work_home_c#_2\Examples\Work_Home_2.15\obj\Debug\net6.0\ref\Work_Home_2.15.dll
