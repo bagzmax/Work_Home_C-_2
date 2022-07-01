@@ -2,9 +2,9 @@
 // и на выходе показывает вторую цифру этого числа.
 
 Console.Write("Введите трёхзначное число: ");
-int number = int.Parse(Console.ReadLine());
+int number = int.Parse(Console.ReadLine()!);
 
-if (number > 100 && number < 1000) // число трехзначное или нет
+if (number > 100 && number < 1000)
 {
     System.Console.WriteLine($"Первая цифра числа: " + $"{number /10 % 10}");
 }
