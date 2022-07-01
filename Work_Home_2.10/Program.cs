@@ -6,7 +6,7 @@ int number = int.Parse(Console.ReadLine());
 
 if (number > 100 && number < 1000) // число трехзначное или нет
 {
-    System.Console.WriteLine($"Вторая цифра числа: " + $"{number /10 % 10}");
+    System.Console.WriteLine($"Первая цифра числа: " + $"{number /10 % 10}");
 }
 else
 {
